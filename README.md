@@ -8,24 +8,6 @@
 <h3 align="center">Human Writing Engine for Claude Code</h3>
 <p align="center"><em>Write like a human. Pass every AI detector. Every time.</em></p>
 
----
-
-## What Is This?
-
-**Ghost** is a Claude Code skill that makes AI-generated text read as undeniably human-authored. It doesn't obfuscate AI output — it injects authentic human signal directly into the writing process, making detection mathematically improbable.
-
-Think of it as a writing coach that understands exactly what AI detectors look for and teaches your model to write in a way they can't flag.
-
-## How AI Detectors Work (And Why Ghost Beats Them)
-
-Every major detector — GPTZero, Originality.ai, Turnitin, ZeroGPT, CopyLeaks, Winston AI — operates on two core metrics:
-
-| Metric | What It Measures | AI Pattern | Human Pattern |
-|--------|-----------------|------------|---------------|
-| **Perplexity** | Word predictability | Every word is the most obvious choice | Unpredictable, creative word choices |
-| **Burstiness** | Sentence structure variance | Uniform length, robotic cadence | Mix of fragments, medium sentences, and run-ons |
-
-**The insight behind Ghost:** detectors don't find "AI." They find the *absence of human signal.* Write WITH human signal and detection becomes impossible.
 
 ## Quick Start
 
